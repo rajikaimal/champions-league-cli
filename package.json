@@ -1,0 +1,24 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Debug express REST API with VSCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/express-vscode.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "vscode"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/express-vscode/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/express-vscode#readme"
+}
